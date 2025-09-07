@@ -11,7 +11,19 @@ This repository contains all the Jupyter/Colab notebooks used during the session
 ## 📂 Workshop Structure & Notebooks  
 
 ### Session 1: Introduction to Prompt Engineering  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PJJDSMTl-y3fcE_u2uIMWlOBA8S-WSYn#scrollTo=33mNGeVr2Jfd)  
+[![Open In Colab](https://colab.research.google.com/drive/1PJJDSMTl-y3fcE_u2uIMWlOBA8S-WSYn)]
+
+### Session 2: Introduction to Agentic AI & RAG Chatbot Setup  
+[![Open In Colab](https://colab.research.google.com/drive/1kN4cRZlPxOUKTKkxwkAZXOQsVJS58BfR)] 
+
+### Session 3: No-Code Automation & GitHub Integration  
+%[![Open In n8n](https://colab.research.google.com/github/<username>/<repo>/blob/main/notebooks/03_no_code_automation.ipynb)  
+
+### Session 4: ReAct Logic & Rapid Engineering with AI Tools  
+[![Open In Colab](https://colab.research.google.com/drive/1N6CJoin66O4uikU_iL79F4iBS_jK6-4F)] 
+
+### Session 5: RL, Deployment & Career Portfolio Development  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18oXJzKvAuvCKiCcex57-FFcRLOs0ZDnS)  
 
 
 ---
