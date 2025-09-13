@@ -1,4 +1,3 @@
-# Agentic-AI-Workshop
 # 🚀 Agentic AI & No-Code Automation Workshop  
 
 **📅 Date:** September 20, 2025  
