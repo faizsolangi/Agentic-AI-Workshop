@@ -49,3 +49,13 @@ By the end of this workshop, you will have:
 ---
 
 📌 **Tip for participants:** Bookmark this repo for future reference.  
+
+
+Create a Python script that generates assignments and quizzes based on a provided document or topic. 
+-The script should accept input text (document or topic) and output 2 assignment questions (e.g., essay prompts) and 3 multiple-choice quiz questions with options and answers. 
+-Use simple logic to parse the input (e.g., split by sentences or keywords) and print the results. 
+-Add Streamlit for the frontend.
+
+
+
+
