@@ -7,6 +7,8 @@ This repository contains all the Jupyter/Colab notebooks used during the session
 
 OPENAI_API_KEY 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
 
+SERPER_API_KEY  b505b10409f4e548fcd56f9a34c088b6c7bbe380
+
 ## 📂 Workshop Structure & Notebooks  
 
 ### Session 1: Introduction to Prompt Engineering  
