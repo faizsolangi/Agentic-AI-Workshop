@@ -5,7 +5,7 @@
 Welcome to the **One-Day Workshop on Agentic AI & No-Code Automation**!  
 This repository contains all the Jupyter/Colab notebooks used during the sessions.  
 
----
+OPENAI_API_KEY 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
 
 ## 📂 Workshop Structure & Notebooks  
 
